@@ -6,3 +6,7 @@ semua fitur gratis selama server menyala
 
 tested : Windows 10, Windows Server 2012 R2, Ubuntu 22.04 (server & desktop)
 nodejs 18.xx
+
+
+
+*program ini sudah tidak diperbarui, update akan dilanjutkan di repo baru
